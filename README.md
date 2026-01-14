@@ -91,5 +91,8 @@ SESSION_SECRET=<your_secret_key>
    ```
 5. Open a pull request.
 
+## Screenshots
+<img width="1920" height="1080" alt="Screenshot (129)" src="https://github.com/user-attachments/assets/b4dab2f2-0d5d-47fc-be39-85d1684948b8" />
+
 ## License
 This project is licensed under the MIT License.
